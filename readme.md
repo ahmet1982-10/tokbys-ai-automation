@@ -1,4 +1,4 @@
-# 🤖 TOKBYS AI Automation Suite
+# 🤖 TOKBYS Intelligent Workflow Automation
 
 > AI-assisted workflow automation platform for cooperative credit collection operations.
 
